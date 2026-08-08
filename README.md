@@ -33,8 +33,7 @@ performance, and the impact of discounts on profit.
 - Review discount policies for loss-making furniture products.
 - Investigate the causes of poor profitability in the Tables
   and Bookcases sub-categories.
-- Analyze regional and customer-segment performance before
-  increasing discounts.
+- Use targeted discounting based on product profitability rather than applying broad discounts.
 
 ## Project Files
 - `retail_sales_profit_analysis.ipynb` — Complete analysis
