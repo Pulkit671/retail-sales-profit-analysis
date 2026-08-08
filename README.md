@@ -21,13 +21,13 @@ performance, and the impact of discounts on profit.
 - Jupyter Notebook
 
 ## Key Findings
-- West region generated the highest sales and profit.
-- Consumer segment generated the highest sales and profit.
-- Technology was the highest-profit category.
-- Higher discounts were associated with declining profitability
-  in several furniture sub-categories.
-- Tables showed significant profitability problems at higher
-  discount levels.
+
+- The **West region** generated the highest total sales and profit among all regions.
+- The **Consumer segment** generated the highest sales and profit.
+- **Technology** was the highest-profit product category.
+- **Tables and Bookcases** showed significant profitability issues within the Furniture category.
+- Higher discount levels were associated with declining profitability, particularly for **Tables and Bookcases**.
+- Furniture products showed substantial losses at higher discount levels, indicating a need for better discount control.
 
 ## Business Recommendations
 - Review discount policies for loss-making furniture products.
